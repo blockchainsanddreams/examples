@@ -1,0 +1,5 @@
+service : {
+  about: () -> (text) query;
+  home: () -> (text) query;
+  page: () -> (text) query;
+}
